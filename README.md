@@ -19,7 +19,7 @@ This project focuses on helping affected individuals with quick access to critic
 
 ## 🖼️ Screenshot
 
-![Disaster Relief Assistant](./screenshot.png)
+![Disaster Relief Assistant](screenshot.png)
 
 ---
 
